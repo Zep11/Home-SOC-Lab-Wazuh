@@ -263,6 +263,7 @@ The project demonstrates the ability to collect endpoint telemetry, investigate 
 
 ---
 
+
 ## 📌 Project Status
 
 **Status:** ✅ Completed
@@ -272,3 +273,8 @@ The project demonstrates the ability to collect endpoint telemetry, investigate 
 **Focus:** Windows Threat Detection & Incident Response
 
 **Project Type:** Home SOC / Blue Team Laboratory
+
+## 👤 Author
+
+**@Shubrajit Dey - Zep11**   - SOC Aspirant 
+

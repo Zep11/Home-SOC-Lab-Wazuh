@@ -1,4 +1,4 @@
-# 🛡️ HOME SOC LAB
+# 🛡️ HOME SOC LAB    -       <img src="https://img.shields.io/badge/License-MIT-green">
 
 ## Windows Threat Detection & Incident Response Lab
 
